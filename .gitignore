@@ -1,0 +1,22 @@
+# cpp outfile files #
+#####################
+output
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PhpStorm Auto Generated Directory #
+#####################################
+.idea
+
+# Git Files #
+#############
+README.md
+.git*
